@@ -14,6 +14,8 @@ public class DroidlayActivity extends MapActivity {
 	public void onCreate(Bundle savedInstanceState) {
 	    super.onCreate(savedInstanceState);
 	    setContentView(R.id.mapView);
+	    //test
+	    
 	}
  
 	
